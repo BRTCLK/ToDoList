@@ -58,6 +58,6 @@ cd ToDoList
 
 ## 👥 İletişim
 
-Proje Sahibi - [@github_BRTCLK](https://github.com/BRTCLK)
+Proje Sahibi - [BRTCLK](https://github.com/BRTCLK)
 
 Proje Linki: [https://github.com/BRTCLK/ToDoList](https://github.com/BRTCLK/ToDoList)
